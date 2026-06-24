@@ -12,7 +12,6 @@ Unsupervised Learning/
 │── src/
 │   └── funciones_utiles.py
 
-
 This repository contains the development corresponding to Unsupervised Learning, focused on analysis techniques, data preparation and exploratory modeling within the context of the EBAC program.
 
 ## Project Objective
