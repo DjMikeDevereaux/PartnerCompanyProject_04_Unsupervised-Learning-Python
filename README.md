@@ -58,3 +58,5 @@ Inactive customers
 Occasional buyers
 
 These segments can be used for: Personalized marketing campaigns Loyalty programs Promotion optimization Retention strategies
+
+
